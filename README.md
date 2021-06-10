@@ -22,7 +22,7 @@
 
 This repository contains the source code of the EU Digital COVID Certificate App Core for Android.
 
-The app core provides shared functionality for the [verifier](https://github.com/eu-digital-green-certificates/dgca-verifier-app-android) and [wallet](https://github.com/eu-digital-green-certificates/dgca-wallet-app-android) apps.
+The app core provides shared functionality for the [verifier](https://github.com/eu-digital-green-certificates/coronago.verifier.app.android) and [wallet](https://github.com/eu-digital-green-certificates/dgca-wallet-app-android) apps.
 
 ## Development
 
