@@ -25,6 +25,7 @@ object Versions {
     // Base
     const val gradle = "4.1.3"
     const val kotlin = "1.4.32"
+    const val desugar_jdk_libs = "1.1.5"
 
     // Decoder
     const val kotlin_reflect = "1.4.32"
@@ -34,6 +35,7 @@ object Versions {
 
     // Validation
     const val json_validation = "2.2.6"
+    const val json_validation_rhino = "1.0"
 
     // Tests
     const val junit = "4.13.1"
